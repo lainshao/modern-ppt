@@ -1,5 +1,5 @@
 ---
-name: lain-ppt
+name: modern-ppt
 description: 生成现代分享/投屏风格的单文件网页 PPT(横向翻页·瑞士极简·安全橙·干净排版)。当用户要做线下分享、演讲、发布会的网页 deck,或提到「lain ppt」「modern ppt」「做个分享 PPT」「投屏 deck」「网页 PPT」「把这段做成 slides」时使用。已内置一套排版硬规范(单一 body 字号 token、标题靠分隔线、正文不上色、底部安全区等)+ 已验证版式组件,产出一致、可直接投屏放映。
 ---
 
